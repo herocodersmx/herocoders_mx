@@ -6,20 +6,16 @@
 }
 
 .logo {
-  height: 6em;
-  padding: 1.5em;
+  height: 15em;
 }
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.preact:hover {
-  filter: drop-shadow(0 0 2em #673ab8aa);
+.logo.herocoders:hover {
+  filter: drop-shadow(0 0 5em #0c346986);
 }
 
 .card {
-  padding: 2em;
+  padding-bottom: 2em;
 }
 
-.read-the-docs {
-  color: #888;
+.list-unstyled > li {
+  list-style: none;
 }
